@@ -1,5 +1,4 @@
 ## cplatformer, the c "platformer" ""engine""
----
 note: this is a hobby project, in doing this to learn and have fun\
 do NOT, under ANY CIRCUMSTANCES, try to run this, unless you wish to help me make this project... work :)
 
@@ -8,9 +7,9 @@ do NOT, under ANY CIRCUMSTANCES, try to run this, unless you wish to help me mak
 # consider also downloading libsdl2-doc for info
 apt install build-essential libsdl2-2.0-0 libsdl2-dev
 ```
-these packages are likely to exist on other distributions as well, but due to different names around\
-different package managers, its preferable you'd refer to the documentation of said distrobution\
-as well as SDL's installation guide: https://wiki.libsdl.org/SDL2/Introduction
+these packages are likely to exist on other distributions as well, but due to different names in\
+different package managers, its preferable you refer to the documentation of said distrobution\
+as well as the SDL installation guide: https://wiki.libsdl.org/SDL2/Introduction
 
 ### cloning, building and running:
 ```sh

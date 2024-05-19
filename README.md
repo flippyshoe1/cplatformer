@@ -1,10 +1,11 @@
 ## cplatformer, the c "platformer" ""engine""
 note: this is a hobby project, in doing this to learn and have fun\
-do NOT, under ANY CIRCUMSTANCES, try to run this, unless you wish to help me make this project... work :)
+do NOT, under ANY CIRCUMSTANCES, try to run this. hell don't even bother cloning this repo.\
+(unless you want to help me out that is, which would be highly appreciated :) )
 
 ### dependencies (debian based):
 ```sh
-# consider also downloading libsdl2-doc for info
+# consider also downloading libsdl2-doc for documentation
 apt install build-essential libsdl2-2.0-0 libsdl2-dev
 ```
 these packages are likely to exist on other distributions as well, but due to different names in\

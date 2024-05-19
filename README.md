@@ -8,7 +8,7 @@ do NOT, under ANY CIRCUMSTANCES, try to run this, unless you wish to help me mak
 apt install build-essential libsdl2-2.0-0 libsdl2-dev
 ```
 these packages are likely to exist on other distributions as well, but due to different names in\
-different package managers, its preferable you refer to the documentation of said distrobution\
+different package managers, its preferable you refer to the documentation of said distribution\
 as well as the SDL installation guide: https://wiki.libsdl.org/SDL2/Introduction
 
 ### cloning, building and running:

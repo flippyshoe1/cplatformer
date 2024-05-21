@@ -38,7 +38,10 @@ typedef struct {
 } Vector2;
 
 typedef struct {
+  /* literal representation of the entity */
   SDL_Rect matter;
+
+  /* ""metaphysical"" representation of the entity, i.e. the logic vars for physics */
   Vector2 velocity;
   Vector2 position;
   Vector2 acceleration;
